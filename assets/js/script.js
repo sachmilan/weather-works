@@ -16,3 +16,12 @@ const searchButton = $("#search-button");
 const clearButton = $("#clear-history-button");
 // my personal api key
 const apiKey = "1291db61f641ff72ce7519899878bf5a";
+
+let setDateandTime = null;
+let savedCitiesElement = JSON.parse(localStorage.getItem("city-search-history")) || [];
+
+const primecity =(event)=>{
+
+    // stops the rendering 
+    event.preventDefault();
+}
