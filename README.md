@@ -17,16 +17,19 @@
 -Open your Git bash application
 -Type in command mkdir Mini personal assistant
 -By using cd command go into Mini personal assistant
--Enter git clone https://github.com/sachmilan/weather-webpage.git
+-Enter git clone https://github.com/sachmilan/weather-works.git
 
 ## Credits
 
-Sachmilan Singh, David Johnson(tutor), Richard Zhang.
+Sachmilan Singh, David Johnson(tutor).
 
 ## Usage
 
 With this application you can search for weather of a given city anywhere arround the world and plan you plans accordingly. Its really helpfull especially if you are travelling, as you can pack your clothes according to the weather of a given place. All you have to do is to type the city name in the search bar and hit search.
 
+![alt](assets/images/screenshot.png) 
+
+https://sachmilan.github.io/weather-works/
 
 
 ## Features
