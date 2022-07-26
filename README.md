@@ -21,7 +21,7 @@
 
 ## Credits
 
-Sachmilan Singh, David Johnson(tutor), Richard Zhang.
+Sachmilan Singh, David Johnson(tutor).
 
 ## Usage
 
