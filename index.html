@@ -39,7 +39,32 @@
     <div>
         <div>
             <section>
-                
+                <h5 >Search the City</h5>
+
+                <form>
+                    <input
+                                id="city-input"
+                                type="text"
+                                Title='"[City Name]" or "[City Name], [Country Code]"'
+                                class="form-control"
+                                placeholder="City Name"
+                                value=""
+                                aria-label="Enter a city name here"
+                                onclick="this.select()"
+                            />
+                            <!-- /User's  input value field -->
+
+                            <!-- search history bar -->
+                            <div class="input-group-append">
+                                <button
+                                class="btn btn-primary"
+                                type="submit"
+                                id="search-button"
+                                >
+                                <i class="bi-search"></i>
+                                </button>
+                            </div>
+                </form>
             </section>
         </div>
     </div>
