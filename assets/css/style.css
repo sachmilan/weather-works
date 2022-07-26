@@ -1,0 +1,35 @@
+body {
+    font-family:sans-serif;
+    background-color: rgb(209, 223, 234) !important;
+}
+
+header {
+    
+    background: radial-gradient( circle farthest-corner at 10% 20%,  rgba(36, 120, 203, 0.98) 0.1%, rgb(5, 12, 139) 99.8% );
+   
+}
+
+.card-body p {
+    font-size: 1.2rem;
+}
+
+.history-btn {
+    color: #0c71c9 !important;
+}
+
+#UV-value {
+    white-space: pre;
+    padding-bottom: 8px !important
+}
+
+.bg-vhigh {
+    background-color: rgb(132, 23, 23);
+}
+
+.bg-extreme {
+    background-color: rgb(178, 49, 178);
+}
+
+#current-weather, .five-day-forecast-box {
+    box-shadow: 0 4px 8px 0 rgba(6, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
